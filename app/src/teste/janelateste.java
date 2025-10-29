@@ -1,5 +1,7 @@
 package teste;
 
+import interfaces.Janela;
+
 public class janelateste {
     public static void main(String[] args) {
         //JFrame janela = new JFrame("Titulo da Janela");
